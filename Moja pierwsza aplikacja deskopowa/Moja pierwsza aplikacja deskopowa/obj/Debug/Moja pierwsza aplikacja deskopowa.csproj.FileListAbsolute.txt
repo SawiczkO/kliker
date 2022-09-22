@@ -1,0 +1,11 @@
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\bin\Debug\Moja pierwsza aplikacja deskopowa.exe.config
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\bin\Debug\Moja pierwsza aplikacja deskopowa.exe
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\bin\Debug\Moja pierwsza aplikacja deskopowa.pdb
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.csproj.AssemblyReference.cache
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja_pierwsza_aplikacja_deskopowa.Form1.resources
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja_pierwsza_aplikacja_deskopowa.Properties.Resources.resources
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.csproj.GenerateResource.cache
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.csproj.CoreCompileInputs.cache
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.exe
+C:\Users\jarosz.eryk\source\repos\Moja pierwsza aplikacja deskopowa\Moja pierwsza aplikacja deskopowa\obj\Debug\Moja pierwsza aplikacja deskopowa.pdb
